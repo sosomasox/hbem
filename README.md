@@ -86,5 +86,5 @@ https://github.com/sosomasox/hbem/wiki
 
 ## ライセンス
 
-adl is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
+hbes is under [MIT license](https://en.wikipedia.org/wiki/MIT_License).
 
